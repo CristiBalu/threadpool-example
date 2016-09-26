@@ -1,3 +1,7 @@
+/**
+ * This project will not have to be opened using a specific IDE.
+ */
+
 public class Job implements Runnable {  
   private int jobNumber;
 
